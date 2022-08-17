@@ -1,5 +1,5 @@
 {
-  "name": "xml-crypto",
+  "name": "@redocly/xml-crypto",
   "version": "3.0.0",
   "description": "Xml digital signature and encryption library for Node.js",
   "engines": {
